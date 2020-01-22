@@ -119,3 +119,7 @@ main {
 .new-comment input[type="text"] {
   width: 100%;
 }
+
+.finstagram-post {
+  margin-bottom: 48px;
+}
